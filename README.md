@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/yamaan2703/Muhammad-Yamaan/main/Coding.avif)
+![logo](https://github.com/yamaan2703/Muhammad-Yamaan/blob/main/Yamaan%20BG.png)
 <h1 align="center">Hi 👋, I'm Yamaan Fahim</h1>
 <h3 align="center">A passionate Frontend Developer & Mobile Application Developer from Pakistan</h3>
 
